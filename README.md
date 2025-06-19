@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there! I'm Looza Subedy
 
-<!--
-**Guche02/Guche02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Enthusiast | 🧠 NLP & Computer Vision | 📊 Data for Development
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Agentic AI & RAG Systems
+- 🌱 Learning advanced LLM fine-tuning and deployment techniques
+- 💬 Ask me about NLP, Semantic Search and Document Processing
+- ⚡ Fun fact: I love to share what I learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-464EB8?style=for-the-badge&logo=optuna&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Tools & Platforms**
+
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A1B2C3?style=for-the-badge&logo=github&logoColor=white)
+
+**Databases & Vector Stores**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1E90FF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-007ACC?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-00B8D4?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+## 📈 GitHub Stats
+![Looza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guche02&show_icons=true&theme=radical)
