@@ -2,9 +2,9 @@
 
 🚀 AI/ML Enthusiast | 🧠 NLP & Computer Vision | 📊 Data for Development
 
-- 🔭 I’m currently working on Agentic AI & RAG Systems
-- 🌱 Learning advanced LLM fine-tuning and deployment techniques
-- 💬 Ask me about NLP, Semantic Search and Document Processing
+- 🔭 I’m currently working on Agentic AI & MCP sytems
+- 🌱 Learning MCPs and AI system optimization
+- 💬 Ask me about NLP, Semantic Search and Agents
 - ⚡ Fun fact: I love to share what I learn
 
 ## 🔧 Tech Stack
@@ -31,7 +31,3 @@
 ![FAISS](https://img.shields.io/badge/FAISS-007ACC?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00B8D4?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-## 📈 GitHub Stats
-![Looza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guche02&show_icons=true&theme=radical)
